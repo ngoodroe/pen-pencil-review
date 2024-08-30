@@ -1,7 +1,3 @@
----
-layout: table_wrapper
----
-
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
@@ -18,17 +14,6 @@ layout: table_wrapper
 </head>
 
 <body>
-    {% include navbar.html %}
-
-    <div class="container vh-75">
-        <div class="row">
-            <div class="container col-sm-12 col-md-10 col-lg-10 mx-auto mt-3 py-2">
-                {{ content }}
-            </div>
-        </div>
-    </div>
-
-    {% include footer.html %}
-
+    {{ content }}
 </body>
 </html>
