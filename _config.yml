@@ -1,5 +1,5 @@
 title: Jekyll Minima Bootstrap5 Boilerplate
-baseurl: 'pen-pencil-review'
+baseurl: '/pen-pencil-review'
 
 author:
   name: Nathan
