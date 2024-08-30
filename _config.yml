@@ -1,8 +1,8 @@
 title: Jekyll Minima Bootstrap5 Boilerplate
-baseurl: ''
+baseurl: 'pen-pencil-review'
 
 author:
-  name: NuwanJ
+  name: Nathan
   email: nuwanjaliyagoda@gmail.com
 
 description: > # this means to ignore newlines until "show_excerpts:"
