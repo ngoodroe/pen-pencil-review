@@ -1,5 +1,5 @@
 ---
-layout: table_wrapper
+layout: default
 title: Reviews
 permalink: /reviews/
 ---
